@@ -1,0 +1,34 @@
+body{
+  background-color: #ffcf79;
+  height: 100%;
+  width: 100%;
+}
+.navbar{
+  background-color: aquamarine;
+}
+.navbar-header{
+  color:blue;
+  font-size:30px;
+}
+.row{
+  background-color: #ffcf79;
+}
+.col1{
+  margin: 3px;
+  min-height: 300px;
+  text-align: center;
+  background-color: #ffcf79;
+  color: blue;
+}
+.col2{
+  margin: 3px;
+  min-height: 200px;
+  text-align: center;
+  background-color:lavender;
+}
+.col3{
+  margin: 3px;
+  min-height: 50px;
+  text-align: center;
+  background-color: greenyellow;
+}
