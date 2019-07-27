@@ -43,21 +43,21 @@ body{
   background-color: lavender;
 }
 .col1{
-  margin: 5px;
+  margin: 3px;
   min-height: 300px;
   text-align: center;
   background-color: silver;
   color: blue;
 }
 .col2{
-  margin: 5px;
+  margin: 3px;
   min-height: 400px;
   text-align: center;
   background-color:lavender;
 }
  
 .col3{
-  margin: 5px;
+  margin: 3px;
   min-height: 50px;
   text-align: center;
   background-color: orange;
