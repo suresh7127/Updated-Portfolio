@@ -1,4 +1,8 @@
-.navbar{
+body{
+  background-color:#ffcf79;
+  font-size:30px;
+  }
+  .navbar{
   background-color: aquamarine;
 }
 .navbar-header{
@@ -27,3 +31,26 @@
   text-align: center;
   background-color: orange;
 }
+h3{
+  color:green;
+  text-decoration:overline underline;
+  text-align:center;
+  }
+  p{
+    color:green;
+    font-size:30px;
+    font-family:helvetica;
+    
+    }
+    .para1{
+      color:purple;
+      font-size:20px;
+      font-family:helvetica;
+     
+      }
+      .para2{
+        color:red;
+        font-size:20px;
+        font-family:helvetica;
+        
+      }
