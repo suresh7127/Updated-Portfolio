@@ -4,29 +4,60 @@ body{
   }
   .navbar{
   background-color: aquamarine;
+
 }
 .navbar-header{
   color:blue;
+  text-align: center;
+  height:30px;
+  font-size: 20px;
+  font-weight: bold;
+  font: Tahoma;
+  float: right;
+  margin-right: 200px;
+}
+
+.nav ul{
+  padding: 0px;
+  margin: 0;
+  list-style-type:none;
+  text-align: center;
+  float: right;
+}
+.nav li{
+  display: inline;
+  padding: 5px;
+  vertical-align: middle;
+  text-align: center;
+}
+.nav a{
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: blue;
+  vertical-align: top;
+  text-align: center;
+  float: right;
 }
 .row{
   background-color: lavender;
 }
 .col1{
-  margin: 3px;
+  margin: 5px;
   min-height: 300px;
   text-align: center;
   background-color: silver;
   color: blue;
 }
 .col2{
-  margin: 3px;
+  margin: 5px;
   min-height: 400px;
   text-align: center;
   background-color:lavender;
 }
  
 .col3{
-  margin: 3px;
+  margin: 5px;
   min-height: 50px;
   text-align: center;
   background-color: orange;
@@ -49,8 +80,28 @@ h3{
      
       }
       .para2{
-        color:red;
+        color:purple;
         font-size:20px;
         font-family:helvetica;
         
       }
+
+      @media screen and (max-width: 980px){
+        .navbar,.navbar-header,.col1, .col2, .col3, p, .para1, .para2 {
+          background-color: #ffcf79;
+          }
+      }
+      @media screen and (max-width: 768px){
+        .navbar,.navbar-header,.col1, .col2, .col3, p, .para1, .para2  {
+          background-color: green;
+          }
+         
+          }
+      
+      @media screen and (max-width: 640px){
+        .navbar,.navbar-header,.col1, .col2, .col3, p, .para1, .para2  {
+          background-color:greenyellow;
+          }
+         
+          }
+      
