@@ -13,8 +13,12 @@ However, several hours of rigorous of work team members achieved these goals and
 I utilized JavaScript, jQuery and Moment.js to achieve this goal.<br>
 Working with moment.js was another interesting fact that I learned during this project.<br>
 Most Challenging part of this project was to set up time updates of the train schedule which i achieved with moment.js.<br>
+<br>
 3.	Gif Tastic: This was my best project and i feel so proud that I achieved this goal.<br>
 Although, it was a bit challenging, i am happy to show that hard work let us accomplish our goal.<br>
+Getting the Json data and implementing it with my project with associated key were very difficult to achieve.<br>
+However, the knowledge that I gained during my course work at UT Austin coding Bootcamp help to attain those goal.<br>
+
 
 
 
