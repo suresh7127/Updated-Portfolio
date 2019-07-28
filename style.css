@@ -45,7 +45,7 @@ body{
   margin: 3px;
   background-color: silver;
   color: blue;
-
+text-align: center;
 }
 .col2{
   margin: 3px;
@@ -55,6 +55,12 @@ body{
 }
  
 .col3{
+  margin: 3px;
+  min-height: 50px;
+  text-align: center;
+  background-color: lavender;
+}
+.col4{
   margin: 3px;
   min-height: 50px;
   text-align: center;
