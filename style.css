@@ -40,6 +40,7 @@ body{
 }
 .row{
   background-color: lavender;
+  
 }
 .col1{
   margin: 3px;
@@ -62,7 +63,7 @@ text-align: center;
   background-color: lavender;
 }
 .col4{
-  margin: 3px;
+  
   min-height: 50px;
   text-align: center;
   background-color: orange;
