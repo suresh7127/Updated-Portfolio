@@ -4,7 +4,7 @@ Homework-8
 This was our first group project where were created an app for user's daily activities.<br>
 The purpose of this project was to give user an app for their routine management so that 
 they can accomplish their daily goal on time.<br>
-![Project one Image](suresh.jpg)
+![Project one Image](suresh6.jpg)
 <br>
 Another interesting fact about the project was to give user rewards points if they achieve their goal on time.<br>
 We used firebase database and google authentication for user's data management. Managing data on firebase and providing log in information to user's identity were the most challenging parts of this project.<br>
