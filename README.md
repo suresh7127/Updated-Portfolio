@@ -12,7 +12,7 @@ However, several hours of rigorous of work team members achieved these goals and
 <br>
 <br>
 2.	Train Scheduler: This was another interesting project that I worked on to display the time schedule of any train system.<br>
-![Project one Image](suresh6.jpg)
+![Train Scheduler Image](suresh6.jpg)
 <br>
 I utilized JavaScript, jQuery and Moment.js to achieve this goal.<br>
 Working with moment.js was another interesting fact that I learned during this project.<br>
@@ -22,7 +22,7 @@ Most Challenging part of this project was to set up time updates of the train sc
 Although, it was a bit challenging, i am happy to show that hard work let us accomplish our goal.<br>
 Getting the Json data and implementing it with my project with associated key were very difficult to achieve.<br>
 However, the knowledge that I gained during my course work at UT Austin coding Bootcamp help to attain those goal.<br>
-![Project one Image](suresh3.jpg)
+![Gif Tastic Image](suresh3.jpg)
 
 
 
